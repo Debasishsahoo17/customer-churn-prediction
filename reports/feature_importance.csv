@@ -1,0 +1,50 @@
+feature,importance
+contract_type_Month-to-month,1.164309917131442
+contract_type_Two year,0.8589220213611832
+satisfaction_score,0.6624906450711772
+tenure_months,0.6110005953448077
+num_support_tickets,0.6025100221126498
+monthly_charges,0.5816105348585792
+online_security_Yes,0.4845163650693671
+contract_type_One year,0.48184427813036246
+tech_support_Yes,0.3900416228996894
+payment_method_Electronic check,0.362076641999373
+internet_service_DSL,0.3471907357225613
+online_security_No,0.33339976689690465
+senior_citizen_No,0.2824769054334415
+partner_Yes,0.2698751279808359
+payment_method_Bank transfer (automatic),0.24809421487556696
+tech_support_No,0.23892502472722704
+paperless_billing_No,0.23699104534381402
+dependents_Yes,0.22862864675791653
+payment_method_Mailed check,0.2134185825229973
+internet_service_Fiber optic,0.1960741375500967
+online_backup_No,0.1342941672416996
+device_protection_No,0.12082454738339589
+phone_service_Yes,0.10986835368784097
+senior_citizen_Yes,0.10602052307334062
+gender_Female,0.1003032220160721
+avg_monthly_gb,0.09783149579183081
+streaming_movies_No,0.09420457821574049
+partner_No,0.09341874562073503
+streaming_tv_No,0.09142444920307366
+payment_method_Credit card (automatic),0.07702022696090954
+gender_Male,0.07615316034402976
+multiple_lines_No phone service,0.06658802867225953
+phone_service_No,0.06658802867225953
+paperless_billing_Yes,0.060534662983712795
+multiple_lines_No,0.06041568327674753
+streaming_tv_Yes,0.05969214896938964
+streaming_movies_Yes,0.05691201995672291
+dependents_No,0.05217226439781444
+multiple_lines_Yes,0.04945267041109534
+total_charges,0.033308576128485604
+device_protection_Yes,0.030292050789066962
+internet_service_No,0.02533978418763735
+tech_support_No internet service,0.02533978418763735
+online_backup_No internet service,0.02533978418763735
+device_protection_No internet service,0.02533978418763735
+streaming_movies_No internet service,0.02533978418763735
+online_security_No internet service,0.02533978418763735
+streaming_tv_No internet service,0.02533978418763735
+online_backup_Yes,0.016822430930763188
