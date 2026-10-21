@@ -102,10 +102,3 @@ A telecom company can use the model to rank customers by churn probability and f
 ## Tech stack
 
 Python, Pandas, NumPy, scikit-learn, Matplotlib, Streamlit, Joblib, Pytest.
-
-## Portfolio talking points
-
-- Built an end-to-end churn analytics workflow from data generation and EDA to model deployment.
-- Compared multiple classification algorithms and selected the best model using ROC-AUC.
-- Created an interactive dashboard for individual and batch churn-risk scoring.
-- Translated model output into actionable retention segments and churn-driver insights.
